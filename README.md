@@ -3,11 +3,11 @@
 Projeto OO
 
 
-SISTEMA DE GERENCIAMENTO DE LOJA
+SISTEMA DE LOJA
 
 O sistema será divido em duas partes, uma para o dono da loja e outra para o cliente. 
 
-FUNCIONALIDADES PARA O DONO:
+Funcionalidades para o dono da loja:
 
 1 - Criar loja: escolher nome, slogan, endereço.
 
@@ -21,7 +21,7 @@ FUNCIONALIDADES PARA O DONO:
 
 6 - Emitir relatórios.
 
-FUNCIONALIDADES PARA O CLIENTE:
+Funcionalidades para o cliente:
 
 1 - Cadastro.
 
