@@ -9,7 +9,7 @@ O sistema será divido em duas partes, uma para o dono da loja e outra para o cl
 
 Funcionalidades para o dono da loja:
 
-1 - Criar loja: escolher nome, slogan, endereço.
+1 - Criar loja: escolher nome, descrição, login e senha para adm.
 
 2 - Gerenciar produtos: adicionar ou remover produto, preço do produto, informações do produto. 
 
@@ -23,7 +23,7 @@ Funcionalidades para o dono da loja:
 
 Funcionalidades para o cliente:
 
-1 - Cadastro.
+1 - Cadastro: nome, cpf, email, endereço.
 
 2 - Busca de produtos.
 
