@@ -21,9 +21,12 @@ impostos deduzidos do salário.
   de salário fixo mais as comissões do período.
 
   o Empregados podem escolher o método de pagamento.
-   *Podem receber um cheque pelos correios
-   *Podem receber um cheque em mãos
-   *Podem pedir depósito em conta bancária
+  
+   * Podem receber um cheque pelos correios
+  
+   * Podem receber um cheque em mãos
+   
+   * Podem pedir depósito em conta bancária
 
   • Alguns empregados pertencem ao sindicato (para simplificar, só há um possível sindicato).
   O sindicato cobra uma taxa mensal do empregado e essa taxa pode variar entre
